@@ -1,6 +1,8 @@
 # Data Requirements
 The data folder should have two subfolders: nvbw and vvs
 The gtfs files in each of them should be in a subfolder called gtfs (not zipped). Therefore the file structure of the data folder should be:
+
+```plaintext
 nvbw
 |   |   
 |   |   gtfs.zip
