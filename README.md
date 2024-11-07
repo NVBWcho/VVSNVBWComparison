@@ -36,7 +36,7 @@ nvbw
             ticketing_identifiers.txt
             transfers.txt
             trips.txt
-```plaintext            
+´´´plaintext            
 
 # Running the main script: 
 The main script is the scripts folder and is called mainScript.py. The easiest way to run it is from the project root with python -m scripts.mainScript
